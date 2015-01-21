@@ -165,7 +165,23 @@ h1 a:before {
 ------------------------ */
 
 .about {
-    color: #fff;
     background: #000;
+    color: #fff;
     font-size: 2em;
+}
+
+
+/* section: about
+------------------------ */
+
+.ffdn {
+    background-image: url('../img/map.png');
+}
+.ffdn p {
+    background: #fff;
+    color: #DD362E;
+    display: inline-block;
+    font-size: 2em;
+    line-height: 1.2;
+    padding: 1rem;
 }
